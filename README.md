@@ -11,13 +11,14 @@ This repository is a centralized archive of my Industrial and Mechanical Enginee
 | :--- | :--- | :--- |
 | **S1** | **Introduction to AI** | [Download PDF](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Object%20detective%20GIMA1.pptx) |
 | **S1** | **Mechanical Analysis** | [Download PDF](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Wind%20Turbine.zip) |
-| **S1** | **Material Science** | |[https://drive.google.com/file/d/1O-rEUqOraZ4VWxe2kxuU6L52Ou1TW6IV/view?usp=sharing] ||
 | **S2** | **Mechanical Design** | [Download PDF](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Compressor%20AC1.pdf) |
 | **S2** | **Metallurgy** | [Download PDF](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Institute%20of%20Technology%20of%20Cambodia.pdf) |
 | **S2** | **Industrial Engineering** |[Download PDF of Cancer](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Institute%20of%20Technology%20of%20Cambodia%20-%20Google%20Docs.pdf)|
 | **S2** | **Industrial Engineering** |[Download PDF Water of bottle](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Water%20Bottle%20Production.zip) |
 | **S2** | **Fluid Mechanics** | [Download PDF](https://github.com/chhuong432-tech/Super-Sonic-Flight/blob/main/Fluid%20and%20Thermal%20System%20TP.pdf) |
 | **S2** | **Strength of Materials** | [Download PDF](https://drive.google.com/file/d/1O-rEUqOraZ4VWxe2kxuU6L52Ou1TW6IV/view?usp=sharing) |
+
+**Note:** **S1**  **Material Science**  [https://drive.google.com/file/d/1O-rEUqOraZ4VWxe2kxuU6L52Ou1TW6IV/view?usp=sharing] 
 
 ---
 
