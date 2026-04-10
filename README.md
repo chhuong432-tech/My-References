@@ -1,16 +1,34 @@
+SYSTEM OVERVIEW: CHAO SIVCHHUONG
+
+STATUS: Year IV Engineering Candidate @ ITC Cambodia
+
+
+SPECIALIZATION: Industrial & Mechanical Engineering
+
+Welcome to my centralized archive. This repository documents my evolution as an engineer, organized by academic milestones and core disciplines, showcasing projects in supersonic flight analysis, wind turbine design, and industrial maintenance.
+
+// Bridging physics-driven solutions with real-world production constraints.
+
 My CV: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/blob/main/CV-CHAO%20SIVCHHUONG.pdf).
 
-My certification: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/commit/9ecaa8320388c8d82f3125e5be066862a6f3350d).
+My Certification: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/commit/9ecaa8320388c8d82f3125e5be066862a6f3350d).
 
-Internship: [Download](https://github.com/chhuong432-tech/My-References/commit/064355f49e7b6d9e6aa29249eb0827fbca0e86fa).
+My Website: [Download](https://www.figma.com/make/FGAdqJ0cjPm2bnUmxRVPWS/Personal-Website?t=0UaFzwAOe6flOBWD-1&preview-route=%2Fprojects).
 
-# 🎓 Engineering Portfolio: Year III & IV Archive
+My Internship (July/2025-Oct/2025): [Download](https://github.com/chhuong432-tech/My-References/commit/064355f49e7b6d9e6aa29249eb0827fbca0e86fa).
 
-This repository is a centralized archive of my Industrial and Mechanical Engineering projects, organized by academic year and core discipline.
+---
+### 🏗️ Year I & II: Engineering Foundations (GPA: 4.0/4.0)
+*Building the mathematical and physical "Operating System" for advanced analysis.*
+
+* **Mathematics Core:** Calculus (I, II, III), Differential Equations, Linear Algebra, and Probability.
+* **Physics & Mechanics:** Mechanics I & II, Electricity I & II.
+* **Applied Sciences:** Engineering Chemistry and General Engineering Principles.
+* **Achievement:** Maintained a **4.0 GPA** during the Foundation Year.
 
 ---
 
-### 🏗️ Year III: Engineering Foundations
+### 🏗️ Year III: Engineering Foundations  (GPA: 3.0/4.0)
 
 | Semester | Core Module | 📄 Technical Documentation |
 | :--- | :--- | :--- |
@@ -22,11 +40,11 @@ This repository is a centralized archive of my Industrial and Mechanical Enginee
 | **S2** | **Industrial Engineering** |[Download PDF of Cancer](https://github.com/chhuong432-tech/My-References/blob/main/Institute%20of%20Technology%20of%20Cambodia%20-%20Google%20Docs.pdf)|
 | **S2** | **Industrial Engineering** |[Download PDF Water of bottle](https://github.com/chhuong432-tech/My-References/blob/main/Water%20Bottle%20Production.zip) |
 | **S2** | **Fluid Mechanics** | [Download PDF](https://github.com/chhuong432-tech/My-References/blob/main/Fluid%20and%20Thermal%20System%20TP.pdf) |
-| **S2** | **Strength of Materials** | [Download PDF](https://drive.google.com/file/d/1O-rEUqOraZ4VWxe2kxuU6L52Ou1TW6IV/view?usp=sharing) |
+| **S2** | **Strength of Materials** | [Download PDF](https://github.com/chhuong432-tech/My-References/blob/3af2856513f87edda7ae1ac121604dae370beccd/Strength%20of%20Material%20TP.pdf) |
 
 ---
 
-### 🚀 Year IV: Advanced Systems & Aerospace
+### 🚀 Year IV: Advanced Systems & Aerospace  (GPA: In progressing)
 
 | Semester | Core Module | 📄 Technical Documentation |
 | :--- | :--- | :--- |
@@ -46,4 +64,7 @@ This repository is a centralized archive of my Industrial and Mechanical Enginee
 
 ---
 **Chao Sivchhhhuong**
+
+**Date: 2022-Present**
+
 *Industrial & Mechanical Engineering*
