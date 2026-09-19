@@ -9,7 +9,7 @@ Welcome to my centralized archive. This repository documents my evolution as an 
 
 // Bridging physics-driven solutions with real-world production constraints.
 
-My CV: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/blob/main/CV-CHAO%20SIVCHHUONG.pdf).
+My CV: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/blob/main/CV_Chao%20Sivchhuong.pdf).
 
 My Certification: [CHAO SIVCHHUONG](https://github.com/chhuong432-tech/My-References/commit/9ecaa8320388c8d82f3125e5be066862a6f3350d).
 
